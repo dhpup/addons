@@ -1,0 +1,3 @@
+cert-manager:
+  image:
+    tag: v1.17.2
