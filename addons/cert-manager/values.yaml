@@ -1,2 +1,3 @@
 # add chart specific values
 cert-manager: {}
+version: 1.17.2
